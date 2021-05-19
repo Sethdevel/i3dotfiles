@@ -2,8 +2,8 @@
   My i3 window-manager dotfiles
 
 <h3>TODO</h3>
-Create a script that put all files in the right place, and download all dependencies.
-Customize firefox
+<p>Create a script that put all files in the right place, and download all dependencies.</p>
+<p>Customize firefox</p>
 
 Dependencies: 
 
