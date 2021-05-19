@@ -12,7 +12,7 @@
     <li>Compositor: Picom</li>
     <li>Wallpaper: Nitrogen</li>
     <li>Notifications: dunst</li>
-    <li>GTK Themes: LxAppearance</li>
+    <li>GTK Themes: LXAppearance</li>
     <li>Apps Menu: dmenu, Rofi</li>
     <li>Terminal: xfce4-terminal</li>
     <li>Optional: Polybar(https://github.com/adi1090x/polybar-themes)</li>
