@@ -14,7 +14,7 @@
     <li>Compositor: Picom</li>
     <li>Wallpaper: Nitrogen</li>
     <li>Notifications: dunst</li>
-    <li>GTK Themes: LXAppearance</li>
+    <li>GTK Themes: LXAppearance and Adwaita Red (https://www.gnome-look.org/p/1368915/)</li>
     <li>Apps Menu: dmenu, Rofi</li>
     <li>Terminal: xfce4-terminal</li>
     <li>Optional: Polybar(https://github.com/adi1090x/polybar-themes)</li>
