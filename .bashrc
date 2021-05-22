@@ -88,9 +88,6 @@ fi
 alias ll='ls -l'
 alias la='ls -A'
 alias l='ls -CF'
-alias aps='sudo aptitude search'
-alias ai='sudo aptitude install'
-
 alias cat='bat'
 
 # Alias definitions.
