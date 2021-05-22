@@ -30,4 +30,5 @@
     <li>Video Player: VLC or mpv</li>
 </ul>
 
-![plot](./main/2021-05-22-125548_1366x768_scrot.png)
+![plot](./2021-05-22-125548_1366x768_scrot.png)
+![plot](./2021-05-22-125754_1366x768_scrot.png)
